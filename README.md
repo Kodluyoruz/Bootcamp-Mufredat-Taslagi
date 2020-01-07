@@ -15,7 +15,7 @@ Bootcamp'in hangi konu üzerine açılacağı, neleri amaçladığı, ne kadar s
 
 ## Eğitim İçeriği:
 
-Burada eğitim süresince derslerde işlenecek kunu başlıkları verilecek. 
+Burada eğitim süresince derslerde işlenecek konu başlıkları verilecek. 
 
 * ### Hafta 1: 
 * Modern JavaScript
