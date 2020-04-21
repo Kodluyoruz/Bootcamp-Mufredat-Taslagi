@@ -37,31 +37,30 @@ Temel Şartlar
 Bu eğitim ile hem bir yazılım projesinin temel yönetim kavramlarını hem de React Native ile Android ve iOS platformlarına nasıl mobil uygulama geliştirebileceğinizi öğrenmiş olacaksınız. Eğitim içerisinde mobil uygulamaların nasıl tasarlandığını,  yazılım dünyasındaki topluluklara nasıl dahil olabileceğinizi, topluluk paketlerini ve farklı kütüphaneleri nasıl kullanabileceğinizi, projenizi performans noktalarını göz önünde bulundurarak nasıl geliştirebileceğinizi öğrenmiş olacaksınız.
 
 ### Eğitim temel anlamda:
-Yazılım Projesi nasıl yönetilir?
-Mobil programlama nedir?
-Versiyon Kontrol Sistemi nedir?
-React Native nedir? 
-React Native ile Google Firebase & Maps , OneSignal kütüphaneleri nasıl kullanılır?
-REST API kavramı nedir, nasıl kullanılır?
-ve daha bir çok sorunun yanıtını bulacaksınız.
+- Yazılım Projesi nasıl yönetilir?
+- Mobil programlama nedir?
+- Versiyon Kontrol Sistemi nedir?
+- React Native nedir? 
+- React Native ile Google Firebase & Maps , OneSignal kütüphaneleri nasıl kullanılır?
+- REST API kavramı nedir, nasıl kullanılır? ve daha bir çok sorunun yanıtını bulacaksınız.
 ## Eğitim Planı
 ## Proje Yönetim Prensipleri
-Bir yazılım projesi nasıl planlanır?
-Proje planlarken dikkat edilmesi gerekenler nelerdir?
-Kodlama prensipleri nelerdir?
-Proje sürecinde hangi adımlar uygulanır? 
-Mobil Programlama
-Mobil programlama nedir?
-Bir mobil uygulama hangi adımlardan oluşur?
-Nelere dikkat edilmelidir?
-UX ve UI kavramları nedir?
-Kullanımı kolaylaştıracak noktalar nelerdir?
-Versiyon Kontrol Sistemleri
-Versiyon kontrol sistemi nedir?
-VCS yapıları (Github, GitLab, BitBucket)
-Temel komutlar nelerdir? Nasıl uygulanırlar?
-Projeye nasıl entegre edilir?
-VCS ile proje yönetimi nasıl yapılır?
+- Bir yazılım projesi nasıl planlanır?
+- Proje planlarken dikkat edilmesi gerekenler nelerdir?
+- Kodlama prensipleri nelerdir?
+- Proje sürecinde hangi adımlar uygulanır? 
+## Mobil Programlama
+- Mobil programlama nedir?
+- Bir mobil uygulama hangi adımlardan oluşur?
+- Nelere dikkat edilmelidir?
+- UX ve UI kavramları nedir?
+- Kullanımı kolaylaştıracak noktalar nelerdir?
+## Versiyon Kontrol Sistemleri
+- Versiyon kontrol sistemi nedir?
+- VCS yapıları (Github, GitLab, BitBucket)
+- Temel komutlar nelerdir? Nasıl uygulanırlar?
+- Projeye nasıl entegre edilir?
+- VCS ile proje yönetimi nasıl yapılır?
 
 ## React Native 
 ## Kurulum ve Tanıtım
