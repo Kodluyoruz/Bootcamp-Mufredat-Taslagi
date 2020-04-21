@@ -94,7 +94,7 @@ Bu eğitim ile hem bir yazılım projesinin temel yönetim kavramlarını hem de
 - Component yapısının incelenmesi ve custom component oluşturma
 - Componentleri etkili kullanma
 - Performansı dikkate alarak uygulamayı geliştirme
-- Uygulama İçi Yönlendirme
+## Uygulama İçi Yönlendirme
 - React Native’e yönelik navigasyon kütüphanelerinin incelenmesi..
 - React Navigation paketi
 - React Navigation paketinin temel yapılarının incelenmesi
