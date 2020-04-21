@@ -20,11 +20,11 @@ Bootcamp ile sıfırdan ileri seviye React Native ile IOS, Android Uygulama Geli
 
 Burada eğitim süresince derslerde işlenecek tüm konu başlıklarını görebilirsiniz. 
 
-## React Native Nedir?
+### React Native Nedir?
 
 React Native, iOS için Swift, Objective C veya Android için Java, Kotlin dillerini kullanmadan bu diller ile yazılmış uygulamalara eşdeğer uygulamalar geliştirebileceğiniz bir Framework'tür. Bu Framework’ü derslerimiz ile birlikte oldukça kolay ve eğlenceli bir yolla öğrenebileceksiniz.
 
-# Programın Açıklaması
+### Programın Açıklaması
 
 Bu program ile birlikte sıfırdan ileri seviye React Native ile IOS, Android Uygulama Geliştirme bilgisine sahip olacaksınız. React Native Developer ünvanına sahip olarak yazılım dünyasında profesyonel projelerde yer alabileceksiniz.
 
@@ -36,7 +36,7 @@ Temel Şartlar
 
 Bu eğitim ile hem bir yazılım projesinin temel yönetim kavramlarını hem de React Native ile Android ve iOS platformlarına nasıl mobil uygulama geliştirebileceğinizi öğrenmiş olacaksınız. Eğitim içerisinde mobil uygulamaların nasıl tasarlandığını,  yazılım dünyasındaki topluluklara nasıl dahil olabileceğinizi, topluluk paketlerini ve farklı kütüphaneleri nasıl kullanabileceğinizi, projenizi performans noktalarını göz önünde bulundurarak nasıl geliştirebileceğinizi öğrenmiş olacaksınız.
 
-**Eğitim temel anlamda:
+### Eğitim temel anlamda:
 Yazılım Projesi nasıl yönetilir?
 Mobil programlama nedir?
 Versiyon Kontrol Sistemi nedir?
@@ -44,8 +44,8 @@ React Native nedir?
 React Native ile Google Firebase & Maps , OneSignal kütüphaneleri nasıl kullanılır?
 REST API kavramı nedir, nasıl kullanılır?
 ve daha bir çok sorunun yanıtını bulacaksınız.
-**Eğitim Planı
-**Proje Yönetim Prensipleri
+## Eğitim Planı
+## Proje Yönetim Prensipleri
 Bir yazılım projesi nasıl planlanır?
 Proje planlarken dikkat edilmesi gerekenler nelerdir?
 Kodlama prensipleri nelerdir?
@@ -63,8 +63,8 @@ Temel komutlar nelerdir? Nasıl uygulanırlar?
 Projeye nasıl entegre edilir?
 VCS ile proje yönetimi nasıl yapılır?
 
-## React Native
-**Kurulum ve Tanıtım
+## React Native 
+## Kurulum ve Tanıtım
 React Native nedir?
 Nasıl çalışır?
 React Native vs Android & iOS
@@ -84,7 +84,7 @@ npm paketleri nedir?
 Kendi modülümüzü nasıl geliştirebilir ve yükleyebiliriz?
  
 ## React Yapılarına Başlangıç
-**React ve JSX yapısı nedir?
+React ve JSX yapısı nedir?
 Temel Javascript yapılarına hızlıca bir bakış
 Proje bileşenlerinin incelenmesi..
 Temel React Native componentleri nelerdir, nasıl kullanılır?
@@ -104,7 +104,7 @@ Temel yapıların efektif kullanımı
 Sayfalar arası basit veri taşıma
 Sayfaların yenilenmesi ve yapıların parametrelerinin kullanımı
  
-**API Kullanımı
+## API Kullanımı
 Bir Web API nedir ve nasıl kullanılır?
 RESTful API çalışma mantığı nedir?
 Kendi API’ımızı nasıl oluşturmak istersek?
@@ -112,7 +112,7 @@ axios paketini kullanma
 Örnek bir API ve axios ile temel işlemlerin uygulanması
 API’dan dönen cevaplara göre aksiyon alma
  
-Google Firebase ve Maps Entegrasyonu
+## Google Firebase ve Maps Entegrasyonu
 Google Firebase nedir ve nasıl kullanılır?
 React Native’e nasıl entegre edilir?
 Google Firebase ile Authentication yapısı nasıl kullanılır?
@@ -125,14 +125,14 @@ Google Maps API key nasıl alınır?
 Google Maps’i projemize nasıl entegre edebiliriz?
 react-native-maps paketinin kullanımı
  
-**OneSignal ile Push Notification Entegrasyonu
+## OneSignal ile Push Notification Entegrasyonu
 OneSignal nedir?
 OneSignal ile bildirim gönderme yapısı nasıl çalışır?
 OneSignal React Native projesine nasıl dahil edilir?
 OneSignal ile nasıl bildirim gönderilir?
 Bildirim gönderirken renk ve resim nasıl eklenir?
  
-**Context API Kullanımı
+## Context API Kullanımı
 Context API nedir?
 Context API çalışma prensibi nedir?
 Projemize Context API entegresi..
@@ -141,7 +141,7 @@ redux nedir ve nasıl çalışır?
 redux ve Context API kıyaslaması
 Nerelerde redux nerelerde Context API kullanılmalı?
  
-**Projenin Tamamlanması
+## Projenin Tamamlanması
 Android ve iOS Splash Screen oluşturma
 Android ve iOS tarafında proje ikonu oluşturma
 Proje build’i alma
