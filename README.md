@@ -64,89 +64,89 @@ Bu eğitim ile hem bir yazılım projesinin temel yönetim kavramlarını hem de
 
 ## React Native 
 ## Kurulum ve Tanıtım
-React Native nedir?
-Nasıl çalışır?
-React Native vs Android & iOS
-Cross-platform bir yapı nasıl çalışır?
-Kurulum adımları nelerdir?
-MacOS ve Windows kurulumları nasıl yapılır?
-Developer hesabı alınımı ve projeyi simülatörde ve gerçek cihazda çalıştırma
-Genymotion kurulumu
-VS Code IDE tanıtımı ve örnek kullanımı..
-CLI komutları ve proje kurulumu nasıl yapılır?
-Proje dizini incelenmesi..
-Projenin iOS ve Android taraflarını incelenmesi..
-Android Studio ve XCode IDE’lerinin incelenmesi..
-Bir React Native projesi XCode ve Android Studio tarafında nasıl çalıştırılır?
-Toplulukların ve topluluk paketlerinin incelenmesi..
-npm paketleri nedir?
-Kendi modülümüzü nasıl geliştirebilir ve yükleyebiliriz?
+- React Native nedir?
+- Nasıl çalışır?
+- React Native vs Android & iOS
+- Cross-platform bir yapı nasıl çalışır?
+- Kurulum adımları nelerdir?
+  a) MacOS ve Windows kurulumları nasıl yapılır?
+  b) Developer hesabı alınımı ve projeyi simülatörde ve gerçek cihazda çalıştırma
+  c) Genymotion kurulumu
+  d) VS Code IDE tanıtımı ve örnek kullanımı..
+- CLI komutları ve proje kurulumu nasıl yapılır?
+- Proje dizini incelenmesi..
+- Projenin iOS ve Android taraflarını incelenmesi..
+- Android Studio ve XCode IDE’lerinin incelenmesi..
+- Bir React Native projesi XCode ve Android Studio tarafında nasıl çalıştırılır?
+- Toplulukların ve topluluk paketlerinin incelenmesi..
+- npm paketleri nedir?
+- Kendi modülümüzü nasıl geliştirebilir ve yükleyebiliriz?
  
 ## React Yapılarına Başlangıç
-React ve JSX yapısı nedir?
-Temel Javascript yapılarına hızlıca bir bakış
-Proje bileşenlerinin incelenmesi..
-Temel React Native componentleri nelerdir, nasıl kullanılır?
-State & Props yapısı
-Class vs Functional & Hooks
-Flex mantığı ve yapısı
-Responsive bir tasarım nasıl oluşturulur?
-Component yapısının incelenmesi ve custom component oluşturma
-Componentleri etkili kullanma
-Performansı dikkate alarak uygulamayı geliştirme
-Uygulama İçi Yönlendirme
-React Native’e yönelik navigasyon kütüphanelerinin incelenmesi..
-React Navigation paketi
-React Navigation paketinin temel yapılarının incelenmesi
-Drawer, Stack, Tab yapılarının projeye entegrasyonu
-Temel yapıların efektif kullanımı
-Sayfalar arası basit veri taşıma
-Sayfaların yenilenmesi ve yapıların parametrelerinin kullanımı
+- React ve JSX yapısı nedir?
+- Temel Javascript yapılarına hızlıca bir bakış
+- Proje bileşenlerinin incelenmesi..
+- Temel React Native componentleri nelerdir, nasıl kullanılır?
+- State & Props yapısı
+- Class vs Functional & Hooks
+- Flex mantığı ve yapısı
+- Responsive bir tasarım nasıl oluşturulur?
+- Component yapısının incelenmesi ve custom component oluşturma
+- Componentleri etkili kullanma
+- Performansı dikkate alarak uygulamayı geliştirme
+- Uygulama İçi Yönlendirme
+- React Native’e yönelik navigasyon kütüphanelerinin incelenmesi..
+- React Navigation paketi
+- React Navigation paketinin temel yapılarının incelenmesi
+- Drawer, Stack, Tab yapılarının projeye entegrasyonu
+- Temel yapıların efektif kullanımı
+- Sayfalar arası basit veri taşıma
+- Sayfaların yenilenmesi ve yapıların parametrelerinin kullanımı
  
 ## API Kullanımı
-Bir Web API nedir ve nasıl kullanılır?
-RESTful API çalışma mantığı nedir?
-Kendi API’ımızı nasıl oluşturmak istersek?
-axios paketini kullanma
-Örnek bir API ve axios ile temel işlemlerin uygulanması
-API’dan dönen cevaplara göre aksiyon alma
+- Bir Web API nedir ve nasıl kullanılır?
+- RESTful API çalışma mantığı nedir?
+- Kendi API’ımızı nasıl oluşturmak istersek?
+- axios paketini kullanma
+- Örnek bir API ve axios ile temel işlemlerin uygulanması
+- API’dan dönen cevaplara göre aksiyon alma
  
 ## Google Firebase ve Maps Entegrasyonu
-Google Firebase nedir ve nasıl kullanılır?
-React Native’e nasıl entegre edilir?
-Google Firebase ile Authentication yapısı nasıl kullanılır?
-Google Firebase‘de Database çeşitleri nelerdir?
-Database nasıl bağlanır ve nasıl kullanılır?
-Firebase Crashlytics nedir ve nasıl kullanılır?
-Firebase Admob nedir ve nasıl kullanılır?
-Google Maps nedir?
-Google Maps API key nasıl alınır?
-Google Maps’i projemize nasıl entegre edebiliriz?
-react-native-maps paketinin kullanımı
+- Google Firebase nedir ve nasıl kullanılır?
+- React Native’e nasıl entegre edilir?
+- Google Firebase ile Authentication yapısı nasıl kullanılır?
+- Google Firebase‘de Database çeşitleri nelerdir?
+- Database nasıl bağlanır ve nasıl kullanılır?
+- Firebase Crashlytics nedir ve nasıl kullanılır?
+- Firebase Admob nedir ve nasıl kullanılır?
+- Google Maps nedir?
+- Google Maps API key nasıl alınır?
+- Google Maps’i projemize nasıl entegre edebiliriz?
+- react-native-maps paketinin kullanımı
  
 ## OneSignal ile Push Notification Entegrasyonu
-OneSignal nedir?
-OneSignal ile bildirim gönderme yapısı nasıl çalışır?
-OneSignal React Native projesine nasıl dahil edilir?
-OneSignal ile nasıl bildirim gönderilir?
-Bildirim gönderirken renk ve resim nasıl eklenir?
+- OneSignal nedir?
+- OneSignal ile bildirim gönderme yapısı nasıl çalışır?
+- OneSignal React Native projesine nasıl dahil edilir?
+- OneSignal ile nasıl bildirim gönderilir?
+- Bildirim gönderirken renk ve resim nasıl eklenir?
  
 ## Context API Kullanımı
-Context API nedir?
-Context API çalışma prensibi nedir?
-Projemize Context API entegresi..
-Context API Class ve Hooks kullanımı
-redux nedir ve nasıl çalışır?
-redux ve Context API kıyaslaması
-Nerelerde redux nerelerde Context API kullanılmalı?
+- Context API nedir?
+- Context API çalışma prensibi nedir?
+- Projemize Context API entegresi..
+- Context API Class ve Hooks kullanımı
+- redux nedir ve nasıl çalışır?
+- redux ve Context API kıyaslaması
+- Nerelerde redux nerelerde Context API kullanılmalı?
  
 ## Projenin Tamamlanması
-Android ve iOS Splash Screen oluşturma
-Android ve iOS tarafında proje ikonu oluşturma
-Proje build’i alma
-Uygulamayı mağazaya yükleme
-Google Play Console ve App Store Connect sayfalarının incelenmesi
-Eğitimin tamamlanması...
+- Android ve iOS Splash Screen oluşturma
+- Android ve iOS tarafında proje ikonu oluşturma
+- Proje build’i alma
+- Uygulamayı mağazaya yükleme
+- Google Play Console ve App Store Connect sayfalarının incelenmesi
+- Eğitimin tamamlanması...
 
 
 ---
